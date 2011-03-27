@@ -20,7 +20,7 @@ Hi3G:
 
 */
 
-# Luhn chec
+# Luhn check
 function is_luhn_valid($number)
 {
 	$doubledNumber  = "";
@@ -56,6 +56,7 @@ function ICCGetCheckDigit ($icc) {
 	return $cd;
 }
 
+# ICC validdds
 function ICCValidate ($icc) {
 	$len 		= strlen($icc);
 	$cd			= substr($icc, -1);				// Check Digit
