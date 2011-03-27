@@ -1,5 +1,5 @@
 <?php
-/*
+/***
 Komplette tekster  	icc 	imsi 	pin1 	puk1 	pin2 	puk2 	gsm 	custid
 	Ret 	Slet 	0 	089238029710000000 	  	  	  	  	0 	1029623724
 	Ret 	Slet 	1 	089238029710000001 	  	  	  	  	0 	1029623724
