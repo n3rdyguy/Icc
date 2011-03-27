@@ -20,7 +20,7 @@ Hi3G:
 
 */
 
-# Luhn check
+# Luhn checks
 function is_luhn_valid($number)
 {
 	$doubledNumber  = "";
